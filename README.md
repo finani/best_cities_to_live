@@ -1,6 +1,5 @@
-# best_cities_to_live
-## [Best Cities To Live](https://docs.google.com/spreadsheets/d/1KF3vg40WMcvlAVqnD_67bp7eHcTUsX_vni_g-ah5HNc/edit?usp=sharing)
-- Google Sheet
+# Best Cities To Live
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1KF3vg40WMcvlAVqnD_67bp7eHcTUsX_vni_g-ah5HNc/edit?usp=sharing)
 
 ## Cities
 - [South Korea](https://en.wikipedia.org/wiki/South_Korea)
