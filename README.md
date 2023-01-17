@@ -15,6 +15,8 @@
   - [London](https://en.wikipedia.org/wiki/London)
 - [United States](https://en.wikipedia.org/wiki/United_States)
   - [San Francisco](https://en.wikipedia.org/wiki/San_Francisco)
+  - [Chicago](https://en.wikipedia.org/wiki/Chicago)
+  - [Austin](https://en.wikipedia.org/wiki/Austin,_Texas)
 - [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates)
   - [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi)
   - [Dubai](https://en.wikipedia.org/wiki/Dubai)
