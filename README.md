@@ -34,5 +34,6 @@
   - [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)
 - [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)
   - [London](https://en.wikipedia.org/wiki/London)
+  - [Manchester](https://en.wikipedia.org/wiki/Manchester)
 - [Austria](https://en.wikipedia.org/wiki/Austria)
   - [Vienna](https://en.wikipedia.org/wiki/Vienna)
