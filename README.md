@@ -2,6 +2,9 @@
 - [Google Sheet](https://docs.google.com/spreadsheets/d/1KF3vg40WMcvlAVqnD_67bp7eHcTUsX_vni_g-ah5HNc/edit?usp=sharing)
 
 ## Cities
+
+### Asia
+
 - [South Korea](https://en.wikipedia.org/wiki/South_Korea)
   - [Seoul](https://en.wikipedia.org/wiki/Seoul)
 - [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates)
@@ -10,11 +13,17 @@
 - [Singapore](https://en.wikipedia.org/wiki/Singapore)
 - [Japan](https://en.wikipedia.org/wiki/Japan)
   - [Tokyo](https://en.wikipedia.org/wiki/Tokyo)
+
+### America
+
 - [United States](https://en.wikipedia.org/wiki/United_States)
   - [San Francisco](https://en.wikipedia.org/wiki/San_Francisco)
   - [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles)
   - [Chicago](https://en.wikipedia.org/wiki/Chicago)
   - [Austin](https://en.wikipedia.org/wiki/Austin,_Texas)
+
+### Europe
+
 - [Germany](https://en.wikipedia.org/wiki/Germany)
   - [Munich](https://en.wikipedia.org/wiki/Munich)
   - [Stuttgart](https://en.wikipedia.org/wiki/Stuttgart)
