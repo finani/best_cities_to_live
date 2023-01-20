@@ -21,6 +21,9 @@
   - [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles)
   - [Chicago](https://en.wikipedia.org/wiki/Chicago)
   - [Austin](https://en.wikipedia.org/wiki/Austin,_Texas)
+- [Canada](https://en.wikipedia.org/wiki/Canada)
+  - [Quebec](https://en.wikipedia.org/wiki/Quebec_City)
+  - [Vancouver](https://en.wikipedia.org/wiki/Vancouver)
 
 ### Europe
 
@@ -35,5 +38,7 @@
 - [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)
   - [London](https://en.wikipedia.org/wiki/London)
   - [Manchester](https://en.wikipedia.org/wiki/Manchester)
+- [Finland](https://en.wikipedia.org/wiki/Finland)
+  - [Helsinki](https://en.wikipedia.org/wiki/Helsinki)
 - [Austria](https://en.wikipedia.org/wiki/Austria)
   - [Vienna](https://en.wikipedia.org/wiki/Vienna)
