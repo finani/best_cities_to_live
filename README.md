@@ -1,7 +1,12 @@
 # Best Cities To Live
-- [Google Sheet](https://docs.google.com/spreadsheets/d/1KF3vg40WMcvlAVqnD_67bp7eHcTUsX_vni_g-ah5HNc/edit?usp=sharing)
+
+- [***Google Sheet*** **(Click here!!)**](https://docs.google.com/spreadsheets/d/1KF3vg40WMcvlAVqnD_67bp7eHcTUsX_vni_g-ah5HNc/edit?usp=sharing)
+
+---
 
 ## Cities
+
+> wikipedia links
 
 ### Asia
 
